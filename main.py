@@ -12,7 +12,7 @@ from send_data import upload_wifi_data
 
 
 AP_NAME = "eduroam guest"
-AP_DOMAIN = "Microsoft.com"
+AP_DOMAIN = "ephec.login.be"
 AP_TEMPLATE_PATH = "ap_templates"
 WIFI_FILE = "wifi.json"
 WIFI_MAX_ATTEMPTS = 3
